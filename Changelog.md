@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [Unreleased: 2.53.0-rc.1]
+### Changed
+ - Changed next version to 2.53.0-rc.1 for 4.x PDF server release.
+
 ## 2.52.6-rc.2
 ### Changed
  - Reverted formiojs@4.14.7-rc.3
